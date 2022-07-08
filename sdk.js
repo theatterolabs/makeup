@@ -2235,7 +2235,7 @@ var YMK = function(e) {
 						thumbnail: "https://s3-ap-northeast-1.amazonaws.com/bcw-media/webconsultation/img-model6.png"
 					}],
 					watermark: "",
-					domains: ["localhost", "plugins.perfectcorp.*", "dev.perfectcorp.com", "plugins.youcamapi.cn"],
+					domains: ["localhost", "plugins.perfectcorp.*", "dev.perfectcorp.com", "plugins.youcamapi.cn", "theatterlabs.github.io],
 					features: {
 						shadefinder: "1",
 						haircolor: "1",
@@ -8223,7 +8223,7 @@ var YMK = function(e) {
 		};
 	t.getPerformanceGroup = p, t.groups = o, t.getGpu = f
 }, function(e, t) {
-	e.exports = ["127.0.0.1", "192.168.29.125", "192.168.29.50", "cn.perfectcorp.com", "192.168.29.12", "127.0.0.1", "web-consultation-demo.perfectcorp.com", "d32qvgpd29lguw.cloudfront.net", "de.perfectcorp.com", "demo.perfectcorp.com", "demo2.perfectcorp.com", "dev.perfectcorp.com", "fr.perfectcorp.com", "gcpplugins-media.makeupar.com", "it.perfectcorp.com", "jp.perfectcorp.com", "ko.perfectcorp.com", "localhost", "makeupar.com", "perfectcorp.com", "plugins-media.makeupar.com", "plugins-media.perfectcorp.com", "plugins-media.youcamapi.cn", "plugins.makeupar.com", "plugins.perfectcorp.com", "plugins.youcamapi.cn", "pt.perfectcorp.com", "stage.perfectcorp.com", "tw.perfectcorp.com", "web-consultation-demo.perfectcorp.com", "www.makeupar.com", "www.perfectcorp.cn", "www.perfectcorp.com"]
+	e.exports = ["theatterolabs.github.io", "127.0.0.1", "192.168.29.125", "192.168.29.50", "cn.perfectcorp.com", "192.168.29.12", "127.0.0.1", "web-consultation-demo.perfectcorp.com", "d32qvgpd29lguw.cloudfront.net", "de.perfectcorp.com", "demo.perfectcorp.com", "demo2.perfectcorp.com", "dev.perfectcorp.com", "fr.perfectcorp.com", "gcpplugins-media.makeupar.com", "it.perfectcorp.com", "jp.perfectcorp.com", "ko.perfectcorp.com", "localhost", "makeupar.com", "perfectcorp.com", "plugins-media.makeupar.com", "plugins-media.perfectcorp.com", "plugins-media.youcamapi.cn", "plugins.makeupar.com", "plugins.perfectcorp.com", "plugins.youcamapi.cn", "pt.perfectcorp.com", "stage.perfectcorp.com", "tw.perfectcorp.com", "web-consultation-demo.perfectcorp.com", "www.makeupar.com", "www.perfectcorp.cn", "www.perfectcorp.com"]
 }, function(e, t, n) {
 	function r(e) {
 		return "number" == typeof e && o(e)
